@@ -1,2 +1,2 @@
-# Educa-o
+# Educao
 Projeto
